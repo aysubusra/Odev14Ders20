@@ -23,7 +23,6 @@ public class webTalesWithXpath {
         driver.get(url);
     }
 
-
     @Test
     public void WebTablesXpath(){
 
