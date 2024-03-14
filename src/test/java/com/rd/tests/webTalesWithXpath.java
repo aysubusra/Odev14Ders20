@@ -5,11 +5,10 @@ import com.rd.utils.PropertyManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.testng.Assert;
 import org.testng.annotations.*;
 
 import java.net.MalformedURLException;
-public class WebTalesWithXpath {
+public class webTalesWithXpath {
     public static WebDriver driver;
     Driver webDriver = new Driver();
     PropertyManager propertyManager= new PropertyManager();

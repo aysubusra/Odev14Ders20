@@ -4,26 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea2d06d2-5f84-44e9-8641-481c5abad584" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/browserstack.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/sample-local-test.testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/sample-test.testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/rd/drivers/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/rd/drivers/DriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/rd/tests/ButtonTestWithCSS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/rd/tests/ButtonTestWithXpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/rd/tests/WebTablesWithCSS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/rd/tests/WebTalesWithXpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/rd/utils/PropertyManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
+    <list default="true" id="ea2d06d2-5f84-44e9-8641-481c5abad584" name="Changes" comment="Ödev 20 ve Ödev 21">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/rd/tests/WebTablesWithCSS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/rd/tests/webTablesWithCSS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/rd/tests/WebTalesWithXpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/rd/tests/webTalesWithXpath.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +54,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.WebTalesWithXpath.WebTablesXpath">
+  <component name="RunManager">
     <configuration name="ButtonTestWithCSS.DemoQAOnGoogle" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Odev14Ders20" />
       <extension name="coverage">
@@ -107,7 +91,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebTablesWithCSS.WebTablesCSS" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="webTablesWithCSS.WebTablesCSS" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Odev14Ders20" />
       <extension name="coverage">
         <pattern>
@@ -116,7 +100,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.rd.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.rd.tests.WebTablesWithCSS" />
+      <option name="MAIN_CLASS_NAME" value="com.rd.tests.webTablesWithCSS" />
       <option name="METHOD_NAME" value="WebTablesCSS" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -125,7 +109,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebTalesWithXpath.WebTablesXpath" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="webTalesWithXpath.WebTablesXpath" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Odev14Ders20" />
       <extension name="coverage">
         <pattern>
@@ -134,7 +118,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.rd.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.rd.tests.WebTalesWithXpath" />
+      <option name="MAIN_CLASS_NAME" value="com.rd.tests.webTalesWithXpath" />
       <option name="METHOD_NAME" value="WebTablesXpath" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -145,8 +129,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.WebTalesWithXpath.WebTablesXpath" />
-        <item itemvalue="TestNG.WebTablesWithCSS.WebTablesCSS" />
+        <item itemvalue="TestNG.webTalesWithXpath.WebTablesXpath" />
+        <item itemvalue="TestNG.webTablesWithCSS.WebTablesCSS" />
         <item itemvalue="TestNG.ButtonTestWithCSS.DemoQAOnGoogle" />
         <item itemvalue="TestNG.ButtonTestWithXpath.DemoQAOnGoogle" />
       </list>
@@ -161,6 +145,29 @@
       <option name="presentableId" value="Default" />
       <updated>1710187736499</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ödev 20 ve Ödev 21">
+      <created>1710448218730</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710448218730</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ödev 20 ve Ödev 21" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ödev 20 ve Ödev 21" />
   </component>
 </project>

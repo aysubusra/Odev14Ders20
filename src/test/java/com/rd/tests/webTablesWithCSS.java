@@ -5,18 +5,15 @@ import com.rd.utils.PropertyManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.testng.Assert;
 import org.testng.annotations.*;
 
 import java.net.MalformedURLException;
-public class WebTablesWithCSS {
+public class webTablesWithCSS {
 
     public static WebDriver driver;
     Driver webDriver = new Driver();
     PropertyManager propertyManager= new PropertyManager();
     String url =propertyManager.getProperty("WEBTABLES_URL");
-
-
 
 
     @BeforeMethod(alwaysRun = true)
