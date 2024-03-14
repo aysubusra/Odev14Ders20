@@ -19,8 +19,6 @@ public class ButtonTestWithCSS {
 
     private static final By dynamicTextMessage = By.cssSelector("#dynamicClickMessage");
 
-
-
     @BeforeMethod(alwaysRun = true)
     public void before() throws MalformedURLException {
         driver = webDriver.initializeDriver();
