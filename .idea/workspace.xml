@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea2d06d2-5f84-44e9-8641-481c5abad584" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browserstack.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/sample-local-test.testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/sample-test.testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/rd/drivers/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/rd/drivers/DriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/rd/tests/ButtonTestWithCSS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/rd/tests/ButtonTestWithXpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/rd/tests/WebTablesWithCSS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/rd/tests/WebTalesWithXpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/rd/utils/PropertyManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2dYb0Y6Iyn9m0iGBSLvg8S5v3aq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/aysubusra/IdeaProjects/Odev14Ders20"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.WebTalesWithXpath.WebTablesXpath">
+    <configuration name="ButtonTestWithCSS.DemoQAOnGoogle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Odev14Ders20" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rd.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rd.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.rd.tests.ButtonTestWithCSS" />
+      <option name="METHOD_NAME" value="DemoQAOnGoogle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ButtonTestWithXpath.DemoQAOnGoogle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Odev14Ders20" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rd.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rd.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.rd.tests.ButtonTestWithXpath" />
+      <option name="METHOD_NAME" value="DemoQAOnGoogle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTablesWithCSS.WebTablesCSS" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Odev14Ders20" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rd.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rd.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.rd.tests.WebTablesWithCSS" />
+      <option name="METHOD_NAME" value="WebTablesCSS" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTalesWithXpath.WebTablesXpath" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Odev14Ders20" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rd.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rd.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.rd.tests.WebTalesWithXpath" />
+      <option name="METHOD_NAME" value="WebTablesXpath" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.WebTalesWithXpath.WebTablesXpath" />
+        <item itemvalue="TestNG.WebTablesWithCSS.WebTablesCSS" />
+        <item itemvalue="TestNG.ButtonTestWithCSS.DemoQAOnGoogle" />
+        <item itemvalue="TestNG.ButtonTestWithXpath.DemoQAOnGoogle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea2d06d2-5f84-44e9-8641-481c5abad584" name="Changes" comment="" />
+      <created>1710187736499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710187736499</updated>
+    </task>
+    <servers />
+  </component>
+</project>
